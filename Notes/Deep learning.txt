@@ -1,0 +1,5 @@
+Deep learning 
+
+What is deep learning?
+	It is a type of machine learning that uses artificial neural networks to teach computers to learn from data. It's called "deep" because it uses multiple layers of neural networks.
+

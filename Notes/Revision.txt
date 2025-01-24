@@ -1,0 +1,6 @@
+Revision 
+-NumPy
+-Why do we need test split 
+
+Task 2 
+-Use the pre trained model to create a model with your own data set and check the accuracy

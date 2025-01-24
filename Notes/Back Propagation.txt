@@ -1,0 +1,6 @@
+Back Propagation
+
+semi super-vised = It is in the middle of super-vise and un-supervised where some data is labelled and others are not.
+
+Women have more facial muscles than men 
+
